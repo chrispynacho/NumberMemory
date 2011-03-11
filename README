@@ -1,0 +1,4 @@
+A BrainAge-like number memorization game.
+
+Displays a grid of random numbers for a set amount of time while you memorize the placement of each number.
+The grid it then blanked out and you have another set amount of time to fill in the grid.
